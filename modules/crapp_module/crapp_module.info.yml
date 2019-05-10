@@ -1,0 +1,5 @@
+name: Crapp Module
+description: An experimental module to build our first Drupal 8 module
+package: Custom
+type: module
+core: 8.x
